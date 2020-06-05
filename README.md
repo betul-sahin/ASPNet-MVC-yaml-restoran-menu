@@ -16,12 +16,3 @@ Ajax
 ### Ek Bilgiler
 Yaml dosyasını okuyabilmek ve gerekli işlemleri yapabilmek için kullandığım YamlDotNet kütüphanesini NuGet paket yöneticisinden aynı isimle aratıp kurabilirsiniz. Kütüphanenin kullanımına dair örneklere resmi sayfasındaki [YamlDotNet samples](https://github.com/aaubry/YamlDotNet/tree/master/YamlDotNet.Samples) bağlantısından ulaşabilirsiniz.
 
-### Ekran Görüntüleri
-
-![Ekran 1](https://github.com/betulsahin87/Yazilim-Mulakat-Sorulari/blob/master/ASPNet_MVC_Yaml_Restoran_Menu/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/restoranmenu1.jpg?raw=true)
-
-![Ekran 2](https://github.com/betulsahin87/Yazilim-Mulakat-Sorulari/blob/master/ASPNet_MVC_Yaml_Restoran_Menu/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/restoranmenu2.jpg?raw=true)
-
-![Ekran 3](https://github.com/betulsahin87/Yazilim-Mulakat-Sorulari/blob/master/ASPNet_MVC_Yaml_Restoran_Menu/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/restoranmenu3.jpg?raw=true)
- 
-
